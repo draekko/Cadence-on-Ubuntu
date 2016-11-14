@@ -1,0 +1,10 @@
+/usr/bin/cadence
+/usr/share/cadence/src/cadence.py
+/usr/share/cadence/src/ui_cadence.py
+/usr/share/cadence/src/ui_cadence_*.py
+
+/etc/xdg/autostart/cadence-session-start.desktop
+/usr/share/applications/cadence.desktop
+/usr/share/icons/hicolor/*/apps/cadence.*
+
+/etc/X11/xinit/xinitrc.d/61cadence-session-inject
